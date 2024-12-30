@@ -22,3 +22,15 @@ print(f"Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_totales} p
 puntos_anteriores = 875
 puntos_nuevos = 350
 print(f"Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_anteriores + puntos_nuevos } puntos")
+
+## Exercise 6 - Round
+num3 = 10 / 3
+print(round(num3, 2))
+
+## Exercise 7 - Round
+value_number = 10.676767
+print(round(value_number))
+
+## Exercise 8 - Round
+square_number = 5 ** 0.5
+print(round(square_number, 4))
